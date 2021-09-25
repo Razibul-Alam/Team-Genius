@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "name": "Jhankar-Mahbub",
+      "expertise": "Javascript",
+      "age": "30",
+      "salary":"100000",
+      "img":"https://resources.pulse.icc-cricket.com/players/284/201.png"
+    },
+    {
+      "id": 2,
+      "name": "Sumit-Shaha",
+      "expertise": "PHP",
+      "age":"35",
+      "salary":"50000",
+      "img":"https://i.cdn.newsbytesapp.com/sports/players/profile/mahmudullah-riyad-1.png"
+      
+    },
+    {
+      "id": 3,
+      "name": "Sumit-Shaha",
+      "expertise": "PHP",
+      "age":"35",
+      "salary":"50000",
+      "img":"https://i.cdn.newsbytesapp.com/sports/players/profile/mahmudullah-riyad-1.png"
+    },
+    {
+      "id": 4,
+      "name": "Sumit-Shaha",
+      "expertise": "PHP",
+      "age":"35",
+      "salary":"50000",
+      "img":"https://i.cdn.newsbytesapp.com/sports/players/profile/mahmudullah-riyad-1.png"
+    },
+    {
+      "id": 5,
+      "name": "Sumit-Shaha",
+      "expertise": "PHP",
+      "age":"35",
+      "salary":"50000",
+      "img":"https://i.cdn.newsbytesapp.com/sports/players/profile/mahmudullah-riyad-1.png"
+    },
+    {
+      "id": 6,
+      "name": "Sumit-Shaha",
+      "expertise": "PHP",
+      "age":"35",
+      "salary":"50000",
+      "img":"https://i.cdn.newsbytesapp.com/sports/players/profile/mahmudullah-riyad-1.png"
+    },
+    {
+      "id": 7,
+      "name": "Sumit-Shaha",
+      "expertise": "PHP",
+      "age":"35",
+      "salary":"50000",
+      "img":"https://i.cdn.newsbytesapp.com/sports/players/profile/mahmudullah-riyad-1.png"
+    },
+    {
+      "id": 8,
+      "name": "Sumit-Shaha",
+      "expertise": "PHP",
+      "age":"35",
+      "salary":"50000",
+      "img":"https://i.cdn.newsbytesapp.com/sports/players/profile/mahmudullah-riyad-1.png"
+    },
+    {
+      "id": 9,
+      "name": "Sumit-Shaha",
+      "expertise": "PHP",
+      "age":"35",
+      "salary":"50000",
+      "img":"https://i.cdn.newsbytesapp.com/sports/players/profile/mahmudullah-riyad-1.png"
+    }
+   
+  ]
