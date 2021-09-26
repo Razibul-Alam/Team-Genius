@@ -1,7 +1,7 @@
 import React from 'react';
 import './GeniusShow.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { fab, faFacebook, faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
+import {faFacebook, faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 import { faUserPlus } from '@fortawesome/free-solid-svg-icons';
 const GeniusesShow = ({genius,handleSelectedGenius}) => {
     const{id,name,expertise,age,salary,img,designation}=genius;
@@ -11,8 +11,7 @@ const GeniusesShow = ({genius,handleSelectedGenius}) => {
    <div>
    <img src={img} className="card-img-top w-50 my-image" alt="..."/>
    </div>
-    <div className="card-body mt-2">
-      
+    <div className="card-body mt-2"> 
       <h4 className="card-title">{name}</h4>
       <h6 className="card-title text-primary">{designation}</h6>
       <h5 className="card-title">Expertise: {expertise}</h5>

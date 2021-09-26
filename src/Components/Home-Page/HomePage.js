@@ -8,7 +8,7 @@ const HomePage = () => {
     const[geniuses,setGeniuses]=useState(fakeData);
     const [selectedGenius,setSelectedGenius]=useState([])
     const handleSelectedGenius=(id)=>{
-        const singleGenius=geniuses.find(genius=>genius.id==id)
+        const singleGenius=geniuses.find(genius=>genius.id===id)
         setSelectedGenius([...selectedGenius,singleGenius])
         }
     return (

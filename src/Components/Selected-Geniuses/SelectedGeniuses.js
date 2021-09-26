@@ -7,8 +7,7 @@ const SelectedGeniuses = ({selectedGenius}) => {
     let total=0
     selectedGenius?.map(person=>{
         let sum=parseInt(person.salary)
-        total=total+sum
-        console.log(total)
+      total=total+sum
     }
 
         )
@@ -17,7 +16,7 @@ const SelectedGeniuses = ({selectedGenius}) => {
         <div className="genius-list mt-3 text-center">
         <h4 className="text-primary mb-3"> <span className="text-primary mx-2"><FontAwesomeIcon icon={faUser} /></span> Developers History</h4>
         <h5 className="mb-3">Numbers of Developers={selectedGenius?.length}</h5>
-        {selectedGenius?.length>0&&<table class="table table-striped">
+        {selectedGenius?.length>0&&<table className="table table-striped">
 <thead>
 <tr>
   <th scope="col">Sl</th>
