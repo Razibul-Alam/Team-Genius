@@ -1,0 +1,12 @@
+.btn{
+    text-align: center;
+    width: 100%;
+    background: #1da1f2;
+   color: #fff;
+  text-transform: uppercase;
+  line-height:38px;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 10px;
+  text-shadow: 0 0 10px rgba(0,0,0,0.5);
+}

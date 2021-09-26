@@ -2,75 +2,94 @@
     {
       "id": 1,
       "name": "Jhankar-Mahbub",
+      "designation":"Fullstack-Developer",
       "expertise": "Javascript",
       "age": "30",
       "salary":"100000",
-      "img":"https://resources.pulse.icc-cricket.com/players/284/201.png"
+      "img":"https://tonmoyac.github.io/e-school/images/Photos/teacher.png"
     },
     {
       "id": 2,
-      "name": "Sumit-Shaha",
+      "name": "Hasin Hayder",
+      "designation":"PHP-Developer",
       "expertise": "PHP",
-      "age":"35",
-      "salary":"50000",
-      "img":"https://i.cdn.newsbytesapp.com/sports/players/profile/mahmudullah-riyad-1.png"
+      "age":"40",
+      "salary":"100000",
+      "img":"https://images.gr-assets.com/authors/1485793957p8/484064.jpg"
       
     },
     {
       "id": 3,
-      "name": "Sumit-Shaha",
+      "name": "Sumit Saha",
+      "designation":"Fullstack-Developer",
       "expertise": "PHP",
       "age":"35",
       "salary":"50000",
-      "img":"https://i.cdn.newsbytesapp.com/sports/players/profile/mahmudullah-riyad-1.png"
+      "img":"https://pbs.twimg.com/profile_images/874172653405327360/QyysiBs5_400x400.jpg"
     },
     {
       "id": 4,
-      "name": "Sumit-Shaha",
-      "expertise": "PHP",
+      "name": "Anisul Islam",
+      "designation":"web-Designer",
+      "expertise": "C++",
       "age":"35",
       "salary":"50000",
-      "img":"https://i.cdn.newsbytesapp.com/sports/players/profile/mahmudullah-riyad-1.png"
+      "img":"https://i.playboard.app/p/AATXAJznXk5D3nZelL2713AQOAQp6Mt2QtX3LL8AIeZa4w/default.jpg"
+      
     },
     {
       "id": 5,
-      "name": "Sumit-Shaha",
+      "name": "Rabbil Hasan",
+      "designation":"PHP-Developer",
       "expertise": "PHP",
       "age":"35",
       "salary":"50000",
-      "img":"https://i.cdn.newsbytesapp.com/sports/players/profile/mahmudullah-riyad-1.png"
+      "img":"https://www.stepupit.com/ControlPanel/Images/rupom.png"
     },
     {
       "id": 6,
-      "name": "Sumit-Shaha",
-      "expertise": "PHP",
+      "name": "Rafeh Qazi",
+      "designation":"Node.js-Developer",
+      "expertise": "Javascript",
       "age":"35",
       "salary":"50000",
-      "img":"https://i.cdn.newsbytesapp.com/sports/players/profile/mahmudullah-riyad-1.png"
+      "img":"https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/794997/794997-1561870048894-52bf624c7d286.jpg"
     },
     {
       "id": 7,
-      "name": "Sumit-Shaha",
+      "name": "Haris Ali",
+      "designation":"Fullstack-Developer",
       "expertise": "PHP",
       "age":"35",
       "salary":"50000",
-      "img":"https://i.cdn.newsbytesapp.com/sports/players/profile/mahmudullah-riyad-1.png"
+      "img":"https://lits.me/wp-content/uploads/2021/04/codewithharry.png"
     },
     {
       "id": 8,
-      "name": "Sumit-Shaha",
-      "expertise": "PHP",
+      "name": "Mosh",
+      "designation":"Fullstack-Developer",
+      "expertise": "Javascript",
       "age":"35",
       "salary":"50000",
-      "img":"https://i.cdn.newsbytesapp.com/sports/players/profile/mahmudullah-riyad-1.png"
+      "img":"https://yt3.ggpht.com/ytc/AKedOLQ09D8wVCdgWoCN3IPrvVKWi48-R2QZ_yJkCmKh-A=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "id": 9,
-      "name": "Sumit-Shaha",
-      "expertise": "PHP",
+      "id": "9",
+      "name": "Zonayed Ahmed",
+      "designation":"Node.js-Developer",
+      "expertise": "Node.js",
       "age":"35",
       "salary":"50000",
-      "img":"https://i.cdn.newsbytesapp.com/sports/players/profile/mahmudullah-riyad-1.png"
+      "img":"https://avatars.githubusercontent.com/u/18544717?v=4"
+    },
+    {
+      "id": 10,
+      "name": "Hm Nayeem",
+      "designation":"Fullstack-Developer",
+      "expertise": "C++",
+      "age":"35",
+      "salary":"50000",
+      "img":"https://ds.rokomari.store/rokomari110/people/d0ed92ff2_80898.jpg"
     }
    
   ]

@@ -14,7 +14,7 @@ const HomePage = () => {
         
             <section className="main row">
         <div className="players-list col-lg-8">
-        <div className='row'>
+        <div className='row g-4'>
         {geniuses.map((genius,index)=>
           <GeniusesShow key={index} genius={genius} handleSelectedGenius={handleSelectedGenius} />
            

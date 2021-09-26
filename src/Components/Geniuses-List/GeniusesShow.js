@@ -1,19 +1,22 @@
 import React from 'react';
-
+import './GeniusShow.css'
 const GeniusesShow = ({genius,handleSelectedGenius}) => {
-    const{id,name,expertise,age,salary,img}=genius;
+    const{id,name,expertise,age,salary,img,designation}=genius;
     return (
-        <section className='col-lg-3'>
-        <div class="card">
-    <img src={img} class="card-img-top" alt="..."/>
-    <div class="card-body">
-      <h5 class="card-title">{name}</h5>
-      <h5 class="card-title">{expertise}</h5>
-      <h5 class="card-title">Age :{age}</h5>
-      <p class="card-text">{salary}</p>
-      <a href="#" className="btn btn-primary" onClick={()=>handleSelectedGenius(id)}>Add Genius</a>
+       <section className='col-lg-4 text-center'>
+        <div className="card my-3 shadow">
+    <img src={img} className="card-img-top profile-img" alt="..."/>
+    <div className="card-body">
+      
+      <h5 className="card-title">{name}</h5>
+      <h6 className="card-title">{designation}</h6>
+      <p className="card-title">Expertise: {expertise}</p>
+      <p className="card-title">Age :{age}</p>
+      <p className="card-text">Salary :- {salary}</p>
+      <button className="btn btn-primary" onClick={()=>handleSelectedGenius(id)}>Add Genius</button>
+      </div>
     </div>
-  </div>
+  
     </section>
     );
 };

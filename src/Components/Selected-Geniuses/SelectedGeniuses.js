@@ -12,9 +12,9 @@ const SelectedGeniuses = ({selectedGenius}) => {
         )
 
     return (
-        <div>
-        <h2>Genius Persons History</h2>
-        <h3>Numbers of Players={selectedGenius?.length}</h3>
+        <div className="bg-light mt-3 text-center">
+        <h4>Genius Persons History</h4>
+        <h5>Numbers of Developers={selectedGenius?.length}</h5>
         {selectedGenius?.length>0&&<table class="table">
 <thead>
 <tr>
@@ -35,7 +35,7 @@ return(
 )}
 </tbody>
 </table>}
-<h3>Total Budget {total}</h3>
+<h3>Total Cost: {total}</h3>
     </div>
     );
 };
