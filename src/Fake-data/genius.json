@@ -61,7 +61,7 @@
       "designation":"Fullstack-Developer",
       "expertise": "PHP",
       "age":"35",
-      "salary":"50000",
+      "salary":"100000",
       "img":"https://lits.me/wp-content/uploads/2021/04/codewithharry.png"
     },
     {
@@ -70,7 +70,7 @@
       "designation":"Fullstack-Developer",
       "expertise": "Javascript",
       "age":"40",
-      "salary":"50000",
+      "salary":"100000",
       "img":"https://yt3.ggpht.com/ytc/AKedOLQ09D8wVCdgWoCN3IPrvVKWi48-R2QZ_yJkCmKh-A=s900-c-k-c0x00ffffff-no-rj"
     },
     {
@@ -79,7 +79,7 @@
       "designation":"Node.js-Developer",
       "expertise": "Node.js",
       "age":"32",
-      "salary":"50000",
+      "salary":"80000",
       "img":"https://avatars.githubusercontent.com/u/18544717?v=4"
     },
     {
@@ -88,7 +88,7 @@
       "designation":"Fullstack-Developer",
       "expertise": "C++",
       "age":"30",
-      "salary":"50000",
+      "salary":"70000",
       "img":"https://ds.rokomari.store/rokomari110/people/d0ed92ff2_80898.jpg"
     }
    
