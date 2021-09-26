@@ -1,4 +1,6 @@
+import { faUser } from '@fortawesome/free-solid-svg-icons';
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 const SelectedGeniuses = ({selectedGenius}) => {
     console.log(selectedGenius)
@@ -12,10 +14,10 @@ const SelectedGeniuses = ({selectedGenius}) => {
         )
 
     return (
-        <div className="bg-light mt-3 text-center">
-        <h4>Genius Persons History</h4>
-        <h5>Numbers of Developers={selectedGenius?.length}</h5>
-        {selectedGenius?.length>0&&<table class="table">
+        <div className="genius-list mt-3 text-center">
+        <h4 className="text-primary mb-3"> <span className="text-primary mx-2"><FontAwesomeIcon icon={faUser} /></span> Developers History</h4>
+        <h5 className="mb-3">Numbers of Developers={selectedGenius?.length}</h5>
+        {selectedGenius?.length>0&&<table class="table table-striped">
 <thead>
 <tr>
   <th scope="col">Sl</th>
@@ -35,7 +37,7 @@ return(
 )}
 </tbody>
 </table>}
-<h3>Total Cost: {total}</h3>
+<h3>Total Cost: ${total}</h3>
     </div>
     );
 };

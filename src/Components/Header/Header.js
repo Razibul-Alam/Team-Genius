@@ -5,16 +5,12 @@ const Header = () => {
         <div>
             
             <div class="card text-center">
-  <div class="card-header">
-    Featured
+  <div class="card-header bg-dark">
+    <img src="https://teamgenius.com/wp-content/uploads/2020/05/TeamGenius_Logo-500-1-260x100.png" alt="" />
   </div>
   <div class="card-body">
-    <h5 class="card-title">Special title treatment</h5>
-    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-  </div>
-  <div class="card-footer text-muted">
-    2 days ago
+    <h3 class="card-title">We Are Ready To Hire Developers</h3>
+    <h4 class="card-text text-muted">Wanna make a awesome team hiring Genius with big budget more than <span className="fs-3 text-dark">50M</span></h4>
   </div>
 </div>
         </div>

@@ -24,7 +24,7 @@
       "designation":"Fullstack-Developer",
       "expertise": "PHP",
       "age":"35",
-      "salary":"50000",
+      "salary":"80000",
       "img":"https://pbs.twimg.com/profile_images/874172653405327360/QyysiBs5_400x400.jpg"
     },
     {
@@ -33,7 +33,7 @@
       "designation":"web-Designer",
       "expertise": "C++",
       "age":"35",
-      "salary":"50000",
+      "salary":"70000",
       "img":"https://i.playboard.app/p/AATXAJznXk5D3nZelL2713AQOAQp6Mt2QtX3LL8AIeZa4w/default.jpg"
       
     },
@@ -43,7 +43,7 @@
       "designation":"PHP-Developer",
       "expertise": "PHP",
       "age":"35",
-      "salary":"50000",
+      "salary":"80000",
       "img":"https://www.stepupit.com/ControlPanel/Images/rupom.png"
     },
     {
@@ -52,7 +52,7 @@
       "designation":"Node.js-Developer",
       "expertise": "Javascript",
       "age":"35",
-      "salary":"50000",
+      "salary":"100000",
       "img":"https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/794997/794997-1561870048894-52bf624c7d286.jpg"
     },
     {
@@ -69,7 +69,7 @@
       "name": "Mosh",
       "designation":"Fullstack-Developer",
       "expertise": "Javascript",
-      "age":"35",
+      "age":"40",
       "salary":"50000",
       "img":"https://yt3.ggpht.com/ytc/AKedOLQ09D8wVCdgWoCN3IPrvVKWi48-R2QZ_yJkCmKh-A=s900-c-k-c0x00ffffff-no-rj"
     },
@@ -78,7 +78,7 @@
       "name": "Zonayed Ahmed",
       "designation":"Node.js-Developer",
       "expertise": "Node.js",
-      "age":"35",
+      "age":"32",
       "salary":"50000",
       "img":"https://avatars.githubusercontent.com/u/18544717?v=4"
     },
@@ -87,7 +87,7 @@
       "name": "Hm Nayeem",
       "designation":"Fullstack-Developer",
       "expertise": "C++",
-      "age":"35",
+      "age":"30",
       "salary":"50000",
       "img":"https://ds.rokomari.store/rokomari110/people/d0ed92ff2_80898.jpg"
     }

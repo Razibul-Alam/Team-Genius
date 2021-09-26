@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import fakeData from '../../Fake-data/genius.json'
 import GeniusesShow from './../Geniuses-List/GeniusesShow';
 import SelectedGeniuses from './../Selected-Geniuses/SelectedGeniuses';
+import Header from './../Header/Header';
 
 const HomePage = () => {
     const[geniuses,setGeniuses]=useState(fakeData);
@@ -11,8 +12,9 @@ const HomePage = () => {
         setSelectedGenius([...selectedGenius,singleGenius])
         }
     return (
-        
-            <section className="main row">
+        <section className="">
+        <Header/>
+            <section className="main row mt-5">
         <div className="players-list col-lg-8">
         <div className='row g-4'>
         {geniuses.map((genius,index)=>
@@ -25,7 +27,7 @@ const HomePage = () => {
             <SelectedGeniuses selectedGenius={selectedGenius}/>
         </div>
     </section>
-        
+        </section>
     );
 };
 
