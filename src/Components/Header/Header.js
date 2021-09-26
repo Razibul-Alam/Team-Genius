@@ -10,7 +10,7 @@ const Header = () => {
   </div>
   <div className="card-body">
     <h3 className="card-title">We Are Ready To Hire Developers</h3>
-    <h4 className="card-text text-muted">Want to make a awesome team hiring Genius with big budget more than <span className="fs-3 text-dark">50M</span></h4>
+    <h4 className="card-text text-muted">Want to make a awesome team hiring Genius with big budget more than <span className="fs-3 text-dark">$50000000</span></h4>
   </div>
 </div>
         </div>
