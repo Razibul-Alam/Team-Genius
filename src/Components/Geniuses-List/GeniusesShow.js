@@ -11,7 +11,7 @@ const GeniusesShow = ({genius,handleSelectedGenius}) => {
    <div>
    <img src={img} className="card-img-top w-50 my-image" alt="..."/>
    </div>
-    <div className="card-body ">
+    <div className="card-body mt-2">
       
       <h4 className="card-title">{name}</h4>
       <h6 className="card-title text-primary">{designation}</h6>
