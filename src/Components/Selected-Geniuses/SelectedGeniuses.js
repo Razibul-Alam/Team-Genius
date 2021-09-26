@@ -3,14 +3,7 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 const SelectedGeniuses = ({selectedGenius}) => {
-    console.log(selectedGenius)
-    let total=0
-    selectedGenius?.map(person=>{
-        let sum=parseInt(person.salary)
-      total=total+sum
-    }
-
-        )
+    let total=selectedGenius?.reduce((total,person)=>total+parseInt(person.salary),0)
 
     return (
         <div className="genius-list mt-3 text-center">
