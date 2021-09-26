@@ -5,7 +5,9 @@ const GeniusesShow = ({genius,handleSelectedGenius}) => {
     return (
        <section className='col-lg-4 text-center'>
         <div className="card my-3 shadow">
-    <img src={img} className="card-img-top profile-img" alt="..."/>
+   <div>
+   <img src={img} className="card-img-top w-50 my-image" alt="..."/>
+   </div>
     <div className="card-body">
       
       <h5 className="card-title">{name}</h5>

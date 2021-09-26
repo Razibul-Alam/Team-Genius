@@ -10,3 +10,8 @@
   border-radius: 10px;
   text-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
+.my-image{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
